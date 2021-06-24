@@ -2,8 +2,8 @@
 Created an app to solve a movie scenario using ReactJs and Redux. 
 
 ## Run api
-the api folder contains the api containing the movie list, on your terminal cd inside the folder and run " npm start " to run the api.
+The api folder contains the api containing the movie list, on your terminal cd inside the folder and run " npm start " to run the api. I will not show any data if you do not run this. 
 
-## the react app
-" npm start " to run the app
-you can check my libraries in package.json (I did not use all of the libraries in there)
+## The react app
+PLEASE CLONE THE "top-5 movie" REPO (I have 2 repos in my account), ignore the "top-5 movie" file in this repo. Once you have cloned it, on your terminal you can cd into the file and " npm start " to run the app.
+
